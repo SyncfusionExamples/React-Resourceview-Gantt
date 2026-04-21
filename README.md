@@ -45,9 +45,9 @@ npm run deploy
 
 ## Dependencies
 
-- React `^16.11.0`
-- `@syncfusion/ej2-react-gantt` `18.2.48`
-- `react-scripts` `3.2.0`
+- React `^17.0.1`
+- `@syncfusion/ej2-react-gantt` `^18.2.48`
+- `react-scripts` `5.0.1`
 
 ## Notes
 
