@@ -1,6 +1,6 @@
 # React ResourceView Gantt Demo
 
-A sample React application demonstrating a Syncfusion Gantt chart in **Resource View** with editable tasks and resource allocation.
+A sample React application demonstrating a [React Gantt chart](https://www.syncfusion.com/react-components/react-gantt-chart) in **Resource View** with editable tasks and resource allocation.
 
 ## Overview
 
@@ -54,3 +54,11 @@ npm run deploy
 - `src/App.js` configures the Gantt component, toolbar actions, and resource/task fields.
 - `src/data.js` provides `resourcesData` and `resourceCollection` used by the chart.
 - The tooltip template references images from `public/images/`.
+
+## Related Links
+
+- [Explore React Gantt Chart](https://www.syncfusion.com/react-components/react-gantt-chart)
+- [Gantt Chart Feature Overview](https://ej2.syncfusion.com/react/documentation/gantt/overview)
+- [React Gantt Chart Getting Started Guide](https://ej2.syncfusion.com/react/documentation/gantt/getting-started)
+- [React Gantt API Documentation](https://ej2.syncfusion.com/react/documentation/api/gantt/viewtype)
+- [React Gantt Chart Live Demos and Examples](https://ej2.syncfusion.com/react/demos/#/tailwind3/gantt/resource-view)
